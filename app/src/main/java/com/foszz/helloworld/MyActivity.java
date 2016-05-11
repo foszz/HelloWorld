@@ -8,6 +8,7 @@ public class MyActivity extends AppCompatActivity {
     @Override
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
+        //look this is the layout I'm using
         setContentView(R.layout.activity_my);
     }
 }
